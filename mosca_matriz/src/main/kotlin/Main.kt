@@ -80,4 +80,5 @@ fun imprimirTablero(t:Array<IntArray>){
         }
         println()
     }
+    holaaaaa
 }
