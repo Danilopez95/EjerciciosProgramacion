@@ -78,7 +78,7 @@ fun imprimirTablero(t:Array<IntArray>){
             print(t[i][j])
 
         }
-        println()
+        println("Hola")
     }
-    holaaaaa
+   
 }
